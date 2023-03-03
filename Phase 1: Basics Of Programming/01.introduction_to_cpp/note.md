@@ -32,8 +32,9 @@ using namespace std;
 ### #include <iostream>
 Here `iostream` is a header file where contain necessary variable and function. `#include` keyword user for inclusion the hearder file in c++ program. `iostream` header file contain below important function : 
     
-● **cin** : used to take input. (cin mean character in)
-● **cout** : used to take output. (cout mean character out)
+● **cin** : used to take input. (cin mean character in) <br />
+● **cout** : used to take output. (cout mean character out) <br />
+● **endl** : add line break with cout ouptut. <br />
 
 ### namespace
 `namespace` defines which input/output from is to be used.
